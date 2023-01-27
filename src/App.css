@@ -1,0 +1,53 @@
+.App {
+  text-align: left;
+}
+
+header {
+  background-color: red;
+  color: rgb(255, 255, 255);
+  top: 0 px;
+  width: 100%;
+  padding: 20px 20px;
+  display: block;
+  text-align: left;
+  height: 100px;
+}
+
+footer {
+  background-color: red;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.article {
+  background-color: white;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 50px;
+  width: 70%;
+  border-style: solid;
+  border-radius: 50px;
+  border-color: red;
+}
+
+h1 {
+  font-size: 40px;
+  display: inline-block;
+  margin-left: 30px;
+  margin-top: 23px;
+}
+
+.logo {
+  display: inline-block;
+}
+
+.url {
+  color: red;
+}
+
+.grid {
+  background-image: radial-gradient(red, white);
+}
